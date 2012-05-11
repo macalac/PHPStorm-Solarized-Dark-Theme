@@ -1,5 +1,11 @@
 ##Solarized Colorscheme for PHPStorm
 
+###Installation
+
+####Mac OSX
+
+####Ubuntu
+
 Developed by Ethan Schoonover es@ethanschoonover.com
 Visit the Solarized homepage
 
