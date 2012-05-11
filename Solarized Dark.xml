@@ -65,7 +65,6 @@
     <option name="SELECTION_BACKGROUND" value="839496" />
     <option name="SELECTION_FOREGROUND" value="73642" />
   </colors>
-  <attributes>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
