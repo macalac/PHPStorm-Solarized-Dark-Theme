@@ -1,4 +1,4 @@
-##Solarized Colorscheme for PHPStorm 6
+##Solarized Color Scheme For PHPStorm 6
 
 ###Installation
 
