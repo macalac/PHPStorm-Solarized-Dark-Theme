@@ -3,10 +3,10 @@
 ###Installation
 
 ####Mac OSX
-~/Library/Preferences/WebIde40/colors
+~/Library/Preferences/WebIde50/colors
 
 ####Ubuntu
-~/.WebIde40/config/colors
+~/.WebIde50/config/colors
 
 
 Developed by Ethan Schoonover es@ethanschoonover.com
