@@ -1,12 +1,10 @@
 ##Solarized Colorscheme for PHPStorm
 
-###Installation
+###PHPStorm 6
+See branch v6
 
-####Mac OSX
-~/Library/Preferences/WebIde50/colors
-
-####Ubuntu
-~/.WebIde50/config/colors
+###PHPStorm 5
+See branch v5 - will not be updated by myself
 
 
 Developed by Ethan Schoonover es@ethanschoonover.com
